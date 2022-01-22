@@ -1,0 +1,29 @@
+#nav_bar{
+    background-color: #124b66;
+    border-color: #00000000;
+}
+
+.alert-info {
+    background-color: #124b66;
+    border-color: #3498db;
+    color: #ffffff;
+}
+
+.panel-success>.panel-heading {
+    color: #ffffff;
+    background-color: #124b66;
+    border-color: #18bc9c;
+}
+
+.btn-success {
+    color: #ffffff;
+    background-color: #124b66;
+    border-color: #18bc9c;
+}
+
+.pagination>.disabled>span, .pagination>.disabled>span:hover, .pagination>.disabled>span:focus, .pagination>.disabled>a, .pagination>.disabled>a:hover, .pagination>.disabled>a:focus {
+    color: #ecf0f1;
+    background-color: #124b66;
+    border-color: transparent;
+    cursor: not-allowed;
+}
